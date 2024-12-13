@@ -1,0 +1,28 @@
+body{
+    text-align: center; 
+    padding: 0; 
+    border: 0; 
+    margin: 0;
+    background: url(../images/farm.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+#titleHD {
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#email-outer{
+    font-size: 12px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#email-inner{
+    color:white;
+     text-decoration: none;
+}
